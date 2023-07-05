@@ -1,0 +1,73 @@
+
+body
+{
+    text-align: center;
+    background:linear-gradient(blue,pink) ;
+    font-family: Happy Monkey;
+}
+#abc
+{
+    border:8px;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+#img
+{
+    width: 250px;
+    height:250px;
+    border-radius: 100%;
+    border:4px solid orange;
+}
+#h
+{
+    color:aliceblue;
+    text-shadow:0px 0px 5px black;
+    margin:4px 450px;
+    background-color: orange;
+    border-radius:4px;
+    padding:4px;
+}
+#pa
+{
+        color:aliceblue;
+        text-shadow:0px 0px 5px black;
+        margin:4px 450px;
+        background-color: orange;
+        border-radius:4px;    
+        padding:4px;
+}
+.g-img
+{
+    border:2px solid;
+    border-radius:4px;
+    height:300px;
+    width:300px;
+    background-image: url("https://i1.wp.com/janfennellthedoglistener.com/static/cms/Gift.png");
+    background-size:cover;
+}
+.g-img:hover
+{
+    background-image:url("pexels-samphan-korwong-6961824\ \(2160p\)\ [MConverter.eu].webp");
+    background-size:cover;
+}
+#happy:hover
+{
+    background-image:url("https://th.bing.com/th/id/OIP.HgXOu8p-RQVwHSnL8XTycAHaEK?pid=ImgDet&rs=1");
+    background-size:cover;
+}
+#sad:hover
+{
+    background-image:url("https://th.bing.com/th/id/OIP.K1-ex6hCDDoT5Qbbs3mpxwHaEK?pid=ImgDet&rs=1");
+    background-size:cover;
+}
+#a1
+{
+    height: 150px;
+    width:300px;
+}
+#a1:hover
+{
+    background-image:url("https://th.bing.com/th/id/OIP.K1-ex6hCDDoT5Qbbs3mpxwHaEK?pid=ImgDet&rs=1");
+    background-size:cover;
+} 
